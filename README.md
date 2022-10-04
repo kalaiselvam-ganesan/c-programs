@@ -1,2 +1,2 @@
 # c-programs
-c programs to learn
+Learning c programs
