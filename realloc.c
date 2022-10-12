@@ -27,7 +27,7 @@ int main()
 
     for(i=0;i<n;i++)
     {
-        printf("%d\n",ptr1+i);
+        printf("%d\n",*(ptr1+i));
     }
 
     free(ptr1);
