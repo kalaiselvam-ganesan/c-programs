@@ -1,0 +1,22 @@
+Structures are a way to group several related variables into one place. 
+Each variable in the structure is known as a member of the structure
+
+For example:
+syntax:
+
+struct [structure tag] {
+
+   member definition;
+   member definition;
+   ...
+   member definition;
+} [one or more structure variables];  
+
+Example:
+
+struct student{
+    
+    int roll_no;
+    char name[50];
+    float mark;
+}s1,s2;
